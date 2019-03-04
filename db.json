@@ -1,9 +1,9 @@
 {
   "type": "message",
-  "id": 01032019,
+  "id": "01032019",
   "channelId" : "ChatbotframeworkChannel", 
   "conversation": { "id": "f984e689-7ef7-4eb5-bd7f-193f0ad1f017" },
   "from": { "id": "wpaskvan" },
-  "recipient": { "id": null },
+  "recipient": { "id": "null" },
   "serviceUrl": "http://github.com/wpaskvan" 
 }
